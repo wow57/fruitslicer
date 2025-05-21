@@ -1,2 +1,4 @@
-# fruitslicer
-pygame 2d 
+# fruit slicer #
+2D game made on python
+
+
